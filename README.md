@@ -15,8 +15,6 @@
 
 ## 🚀 Technologies
 
-Developed with the following technologies:
-
 - Javascript
 - HTML
 - CSS
@@ -26,6 +24,6 @@ Developed with the following technologies:
 
 ## 💻 Project
 
-Desenvolvido durante a #FrontWeek, realizado pelo Násser Yousef:
+Developed during #FrontWeek, conducted by Násser Yousef:
 - Site: https://www.nyousefali.com.br/
 - Github: https://github.com/nyousefali
